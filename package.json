@@ -119,7 +119,7 @@
     "@uppy/status-bar": "^4.0.3",
     "@uppy/xhr-upload": "^4.1.0",
     "accept-language": "^3.0.20",
-    "ai": "^4.0.22",
+    "ai": "^5.0.52",
     "algoliasearch": "^5.18.0",
     "array-move": "^4.0.0",
     "axios": "^1.7.7",
